@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/midterm_trello_like/static/js/main.2effc52b.chunk.js",
-    "main.js.map": "/midterm_trello_like/static/js/main.2effc52b.chunk.js.map",
+    "main.css": "/midterm_trello_like/static/css/main.a75edf1a.chunk.css",
+    "main.js": "/midterm_trello_like/static/js/main.b083e96d.chunk.js",
+    "main.js.map": "/midterm_trello_like/static/js/main.b083e96d.chunk.js.map",
     "runtime-main.js": "/midterm_trello_like/static/js/runtime-main.26a460b6.js",
     "runtime-main.js.map": "/midterm_trello_like/static/js/runtime-main.26a460b6.js.map",
-    "static/js/2.d9528e14.chunk.js": "/midterm_trello_like/static/js/2.d9528e14.chunk.js",
-    "static/js/2.d9528e14.chunk.js.map": "/midterm_trello_like/static/js/2.d9528e14.chunk.js.map",
+    "static/js/2.9513d472.chunk.js": "/midterm_trello_like/static/js/2.9513d472.chunk.js",
+    "static/js/2.9513d472.chunk.js.map": "/midterm_trello_like/static/js/2.9513d472.chunk.js.map",
     "index.html": "/midterm_trello_like/index.html",
-    "static/js/2.d9528e14.chunk.js.LICENSE.txt": "/midterm_trello_like/static/js/2.d9528e14.chunk.js.LICENSE.txt"
+    "static/css/main.a75edf1a.chunk.css.map": "/midterm_trello_like/static/css/main.a75edf1a.chunk.css.map",
+    "static/js/2.9513d472.chunk.js.LICENSE.txt": "/midterm_trello_like/static/js/2.9513d472.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.26a460b6.js",
-    "static/js/2.d9528e14.chunk.js",
-    "static/js/main.2effc52b.chunk.js"
+    "static/js/2.9513d472.chunk.js",
+    "static/css/main.a75edf1a.chunk.css",
+    "static/js/main.b083e96d.chunk.js"
   ]
 }
