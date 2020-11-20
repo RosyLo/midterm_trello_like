@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/midterm_trello_like/static/css/main.a75edf1a.chunk.css",
-    "main.js": "/midterm_trello_like/static/js/main.b083e96d.chunk.js",
-    "main.js.map": "/midterm_trello_like/static/js/main.b083e96d.chunk.js.map",
+    "main.css": "/midterm_trello_like/static/css/main.8e261827.chunk.css",
+    "main.js": "/midterm_trello_like/static/js/main.458d2ada.chunk.js",
+    "main.js.map": "/midterm_trello_like/static/js/main.458d2ada.chunk.js.map",
     "runtime-main.js": "/midterm_trello_like/static/js/runtime-main.26a460b6.js",
     "runtime-main.js.map": "/midterm_trello_like/static/js/runtime-main.26a460b6.js.map",
     "static/js/2.9513d472.chunk.js": "/midterm_trello_like/static/js/2.9513d472.chunk.js",
     "static/js/2.9513d472.chunk.js.map": "/midterm_trello_like/static/js/2.9513d472.chunk.js.map",
     "index.html": "/midterm_trello_like/index.html",
-    "static/css/main.a75edf1a.chunk.css.map": "/midterm_trello_like/static/css/main.a75edf1a.chunk.css.map",
+    "static/css/main.8e261827.chunk.css.map": "/midterm_trello_like/static/css/main.8e261827.chunk.css.map",
     "static/js/2.9513d472.chunk.js.LICENSE.txt": "/midterm_trello_like/static/js/2.9513d472.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.26a460b6.js",
     "static/js/2.9513d472.chunk.js",
-    "static/css/main.a75edf1a.chunk.css",
-    "static/js/main.b083e96d.chunk.js"
+    "static/css/main.8e261827.chunk.css",
+    "static/js/main.458d2ada.chunk.js"
   ]
 }
